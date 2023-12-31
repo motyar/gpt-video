@@ -13,7 +13,7 @@ This project is a fun experiment to explore the feasibility of real-time AI inte
 
 https://gpt-video-jidefr.vercel.app
 
-You'll need an OpenAI API key. Remember to delete the API key after using it sor safety.
+You'll need an OpenAI API key. Remember to delete the API key after using it for safety.
 
 ## 🛠 Stack
 
